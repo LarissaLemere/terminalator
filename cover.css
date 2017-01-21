@@ -27,13 +27,15 @@ a:hover {
 /*
  * Base structure
  */
-html{
-  background: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-258611.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+<style>
+  html{
+    background: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-258611.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+</style>
 body {
   height: 100%
 }
