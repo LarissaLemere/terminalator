@@ -34,9 +34,9 @@ html{
  * Base structure
  */
 html;
-body {
+/*body {
   height: 100%
-}
+}*/
 body {
   color: #fff;
   text-align: center;
