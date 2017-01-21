@@ -25,6 +25,9 @@ a:hover {
  */
 
 html,
+p{
+  font-family: 'Russo One':
+}
 body {
   height: 100%;
   background-color: #333;
