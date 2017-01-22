@@ -18,6 +18,7 @@ html{
     -moz-background-size: 150% 150%;
     -o-background-size: 150% 150%;
     background-size: 150% 150%;
+    background-align: left;
   }
 /* Custom default button */
 .btn-default,
