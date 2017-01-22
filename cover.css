@@ -8,7 +8,9 @@ a:focus,
 a:hover {
   color: #fff;
 }
-
+#Terminalator {
+  font-family: 'Russo One', sans-serif;
+}
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
