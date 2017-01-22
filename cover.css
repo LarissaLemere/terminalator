@@ -14,10 +14,10 @@ a:hover {
 }
 html{
     background: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-258611.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover*2;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: 150% 150%;
+    -moz-background-size: 150% 150%;
+    -o-background-size: 150% 150%;
+    background-size: 150% 150%;
   }
 /* Custom default button */
 .btn-default,
