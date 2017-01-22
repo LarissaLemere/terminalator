@@ -34,9 +34,9 @@ html{
  * Base structure
  */
 html;
-body {
+/*body {
   height: 100%
-}
+}*/
 body {
   color: #fff;
   text-align: center;
@@ -76,7 +76,7 @@ body {
 }
 
 .masthead-nav > li {
-  display: inline-block;
+  /*display: inline-block;*/
 }
 .masthead-nav > li + li {
   margin-left: 20px;
